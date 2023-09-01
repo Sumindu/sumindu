@@ -1,4 +1,4 @@
-[![MasterHead](https://giffiles.alphacoders.com/120/120237.gif)](https://twitter.com/zumindu)
+[![MasterHead](https://media.gifs.nl/matrix-gifs-t2l1ML.gif)](https://twitter.com/zumindu)
 <h1 align="center">Hi 👋, I'm Sumindu Ekanayaka</h1>
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://1.bp.blogspot.com/-wHeOfpFyjAA/WOYKx5ijjYI/AAAAAAAAABI/InN8TcBiE7EdYkbkZtnukpv8hTiwcI0QQCLcB/s640/hacker.gif" (https://twitter.com/zumindu)>
