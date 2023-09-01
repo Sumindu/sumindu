@@ -1,7 +1,7 @@
 [![MasterHead](https://giffiles.alphacoders.com/120/120237.gif)](https://twitter.com/zumindu)
 <h1 align="center">Hi 👋, I'm Sumindu Ekanayaka</h1>
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
-<img align="" alt="Coding" width="400" src="https://1.bp.blogspot.com/-wHeOfpFyjAA/WOYKx5ijjYI/AAAAAAAAABI/InN8TcBiE7EdYkbkZtnukpv8hTiwcI0QQCLcB/s640/hacker.gif">
+<img align="right" alt="Coding" width="400" src="https://1.bp.blogspot.com/-wHeOfpFyjAA/WOYKx5ijjYI/AAAAAAAAABI/InN8TcBiE7EdYkbkZtnukpv8hTiwcI0QQCLcB/s640/hacker.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumindu&label=Profile%20views&color=0e75b6&style=flat" alt="sumindu" /> </p>
 
