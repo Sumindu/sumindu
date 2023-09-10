@@ -1,5 +1,13 @@
 [![MasterHead](https://media.gifs.nl/matrix-gifs-t2l1ML.gif)](https://twitter.com/zumindu)
-<h1 align="center">Hi 👋, I'm Sumindu Ekanayaka</h1>
+## <!-- Typing SVG -->
+<p align="center">
+    <a href="https://github.com/MR-DARK-SHADOW">
+        <img align="center"
+        src="https://readme-typing-svg.herokuapp.com/?size=30&width=500&lines=Hi 👋,+I+am+Sumindu%20+%20SEkanayaka+..."
+            alt="Typing SVG"
+        />
+    </a>
+</p> 
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://1.bp.blogspot.com/-wHeOfpFyjAA/WOYKx5ijjYI/AAAAAAAAABI/InN8TcBiE7EdYkbkZtnukpv8hTiwcI0QQCLcB/s640/hacker.gif" (https://twitter.com/zumindu)>
 
