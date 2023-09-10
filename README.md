@@ -3,7 +3,7 @@
 <p align="center">
     <a href="https://github.com/sumindu">
         <img align="center"
-        src="https://readme-typing-svg.herokuapp.com/?size=30&width=500&lines=Hi!!!+I+am+Sumindu%20+%20Ekanayaka+.....+."
+        src="https://readme-typing-svg.herokuapp.com/?size=30&width=500&lines=Hi!!!+I+am+Sumindu%20+%20Ekanayaka....+"
             alt="Typing SVG"
         />
     </a>
