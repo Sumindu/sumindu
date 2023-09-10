@@ -1,7 +1,7 @@
 [![MasterHead](https://media.gifs.nl/matrix-gifs-t2l1ML.gif)](https://twitter.com/zumindu)
 ## <!-- Typing SVG -->
 <p align="center">
-    <a href="https://github.com/MR-DARK-SHADOW">
+    <a href="https://github.com/sumindu">
         <img align="center"
         src="https://readme-typing-svg.herokuapp.com/?size=30&width=500&lines=Hi 👋,+I+am+Sumindu%20+%20SEkanayaka+..."
             alt="Typing SVG"
