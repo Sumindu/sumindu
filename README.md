@@ -15,15 +15,15 @@
 
 <p align="left"> <a href="https://twitter.com/zumindu" target="blank"><img src="https://img.shields.io/twitter/follow/zumindu?logo=twitter&style=for-the-badge" alt="zumindu" /></a> </p>
 
-- 🔭 I’m currently working on **C# Projects**
+- 🔭 I’m currently working on **C# and PHP Projects**
 
 - 🌱 I’m currently learning **HND in Software Engineerinng**
 
-- 👯 I’m looking to collaborate on **C# Projects**
+- 👯 I’m looking to collaborate on **C# and PHP Projects**
 
-- 🤝 I’m looking for help with **C# Projects**
+- 🤝 I’m looking for help with **CC# and PHP Projects**
 
-- 💬 Ask me about **C# , Python**
+- 💬 Ask me about **C# , Python ,PHP**
 
 - 📫 How to reach me **bsumindu@gmail.com**
 
