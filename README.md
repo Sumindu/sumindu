@@ -21,7 +21,7 @@
 
 - 👯 I’m looking to collaborate on **C# and PHP Projects**
 
-- 🤝 I’m looking for help with **CC# and PHP Projects**
+- 🤝 I’m looking for help with **C# and PHP Projects**
 
 - 💬 Ask me about **C# , Python ,PHP**
 
