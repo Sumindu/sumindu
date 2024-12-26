@@ -1,53 +1,5 @@
 [![MasterHead](https://media.gifs.nl/matrix-gifs-t2l1ML.gif)](https://sumindu.me)
 
-<svg width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
-      .matrix-rain text {
-        font-family: monospace;
-        font-size: 20px;
-        fill: #00ff00;
-        opacity: 0;
-        animation: rain-animation 2s infinite;
-      }
-      @keyframes rain-animation {
-        0% {
-          opacity: 0;
-          transform: translateY(-20px);
-        }
-        50% {
-          opacity: 1;
-          transform: translateY(0);
-        }
-        100% {
-          opacity: 0;
-          transform: translateY(20px);
-        }
-      }
-    </style>
-  </defs>
-  <g class="matrix-rain">
-    <text x="10%" y="20%">S</text>
-    <text x="15%" y="40%">U</text>
-    <text x="20%" y="60%">M</text>
-    <text x="25%" y="80%">I</text>
-    <text x="30%" y="100%">N</text>
-    <text x="35%" y="120%">D</text>
-    <text x="40%" y="140%">U</text>
-  </g>
-  <g class="matrix-rain">
-    <text x="50%" y="20%">E</text>
-    <text x="55%" y="40%">K</text>
-    <text x="60%" y="60%">A</text>
-    <text x="65%" y="80%">N</text>
-    <text x="70%" y="100%">A</text>
-    <text x="75%" y="120%">Y</text>
-    <text x="80%" y="140%">A</text>
-    <text x="85%" y="160%">K</text>
-    <text x="90%" y="180%">A</text>
-  </g>
-</svg>
-
 
 ## <!-- Typing SVG -->
 <p align="center">
