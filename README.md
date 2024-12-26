@@ -74,3 +74,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumindu&show_icons=true&theme=dark&locale=en" alt="sumindu" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumindu&theme=dark" alt="sumindu" /></p>
+<p align="center"> <a href="https://github.com/sumindu"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumindu&hide=css,html&theme=algolia&bg_color=DDD9DA00&text_color=00AEFF" > </a> </p>
