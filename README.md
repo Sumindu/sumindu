@@ -1,8 +1,8 @@
-[![MasterHead](https://media.gifs.nl/matrix-gifs-t2l1ML.gif)](https://twitter.com/zumindu)
+[![MasterHead](https://media.gifs.nl/matrix-gifs-t2l1ML.gif)](https://www.sumindu.me)
 
 ## <!-- Typing SVG -->
 <p align="center">
-    <a href="https://github.com/sumindu">
+    <a href="https://sumindu.me">
         <img align="center"
         src="https://readme-typing-svg.herokuapp.com/?size=30&width=600&lines=Hi!!!+I+am+Sumindu+Ekanayake....;Software+Developer;MERN+Stack+Enthusiast;Data+Science+Student+at+London+Metropolitan+University"
             alt="Typing SVG"
@@ -15,7 +15,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumindu&label=Profile%20views&color=1dc948&style=flat" alt="sumindu" /> </p>
 
-<p align="left"> <a href="https://twitter.com/zumindu" target="blank"><img src="https://img.shields.io/twitter/follow/zumindu?logo=twitter&style=for-the-badge" alt="zumindu" /></a> </p>
+<p align="left"> <a href="https://x.com/zumindu" target="blank"><img src="https://img.shields.io/twitter/follow/zumindu?logo=twitter&style=for-the-badge" alt="zumindu" /></a> </p>
 
 - 🔭 I’m currently working on **MERN Stack Projects**
 
@@ -67,7 +67,7 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354522/vitejs.svg" alt="vite" width="40" height="40"/>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354522/vitejs.svg" alt="vite" width="40" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumindu&show_icons=true&theme=dark&locale=en&layout=compact" alt="sumindu" /></p>
