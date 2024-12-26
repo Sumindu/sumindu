@@ -1,5 +1,126 @@
-[![MasterHead](https://media.gifs.nl/matrix-gifs-t2l1ML.gif)](https://sumindu.me)
+<!--  HTML Animated Matrix Header START -->
+<div id="matrix-header-container" style="display:flex;justify-content: center; margin-bottom:20px">
+    <svg
+        id="matrix-svg"
+        viewBox="0 0 800 200"
+        style="background: black; width:100%; max-width: 800px;"
+    >
+         <defs>
+        <filter id="glow">
+            <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+            <feMerge>
+            <feMergeNode in="coloredBlur"/>
+            <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+        </defs>
 
+        <!-- Matrix rain characters (will be updated by JS) -->
+        <g id="rain-group"></g>
+
+      <text
+        x="400"
+        y="100"
+        text-anchor="middle"
+        class="text-4xl font-bold"
+        fill="none"
+        stroke="#00ff00"
+        stroke-width="1"
+        filter="url(#glow)"
+      >
+          <animate
+            attributeName="stroke-width"
+            values="1;3;1"
+            dur="2s"
+            repeatCount="indefinite"
+          />
+          SUMINDU EKANAYAKA
+      </text>
+
+       <text
+            x="400"
+            y="130"
+            text-anchor="middle"
+            class="text-xl"
+            fill="#00ff00"
+            opacity="0.8"
+       >
+            <animate
+            attributeName="opacity"
+            values="0.5;1;0.5"
+            dur="3s"
+            repeatCount="indefinite"
+           />
+          Full-Stack Developer | Matrix Navigator
+        </text>
+            
+      <path
+        d="M200,150 L600,150"
+        stroke="#00ff00"
+        stroke-width="1"
+        opacity="0.5"
+        >
+        <animate
+            attributeName="stroke-dasharray"
+            values="0,1000;600,1000"
+            dur="3s"
+            repeatCount="indefinite"
+          />
+       </path>
+        
+    </svg>
+
+  </div>
+    
+   <script>
+     document.addEventListener('DOMContentLoaded', () => {
+
+            const svg = document.getElementById('matrix-svg');
+            const rainGroup = document.getElementById('rain-group');
+            const chars = "アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲン0123456789";
+            const raindrops = [];
+            const RAINDROP_COUNT = 50;
+
+              for (let i = 0; i < RAINDROP_COUNT; i++) {
+                raindrops.push({
+                x: Math.random() * svg.viewBox.baseVal.width,
+                y: Math.random() * svg.viewBox.baseVal.height,
+                char: chars[Math.floor(Math.random() * chars.length)],
+                speed: 1 + Math.random() * 2,
+                 el :  document.createElementNS("http://www.w3.org/2000/svg", "text")
+            });
+                rainGroup.appendChild(raindrops[i].el);
+                    raindrops[i].el.setAttribute('class','matrix-rain');
+                  raindrops[i].el.setAttribute('fill', '#00ff00');
+                    raindrops[i].el.setAttribute('font-size', '14');
+                raindrops[i].el.setAttribute('opacity','0.8');
+                    raindrops[i].el.setAttribute('filter', 'url(#glow)');
+
+            }
+            const animate = () => {
+                raindrops.forEach(drop => {
+                  drop.y += drop.speed;
+                    if (drop.y > svg.viewBox.baseVal.height) {
+                         drop.y = 0;
+                       drop.x = Math.random() * svg.viewBox.baseVal.width;
+                       drop.char = chars[Math.floor(Math.random() * chars.length)];
+                     }
+                  drop.el.setAttribute('x', drop.x.toString());
+                    drop.el.setAttribute('y', drop.y.toString());
+                    drop.el.textContent = drop.char;
+
+                    
+                });
+                requestAnimationFrame(animate);
+            };
+              animate();
+
+      });
+    </script>
+
+<!--  HTML Animated Matrix Header END-->
+
+[![MasterHead](https://media.gifs.nl/matrix-gifs-t2l1ML.gif)](https://sumindu.me)
 
 ## <!-- Typing SVG -->
 <p align="center">
@@ -73,7 +194,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumindu&show_icons=true&theme=dark&locale=en&layout=compact" alt="sumindu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumindu&show_icons=true&theme=dark&locale=en" alt="sumindu" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=sumindu&show_icons=true&theme=dark&locale=en" alt="sumindu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumindu&theme=dark" alt="sumindu" /></p>
 <p align="center"> <a href="https://github.com/sumindu"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumindu&hide=css,html&theme=algolia&bg_color=DDD9DA00&text_color=00AEFF" > </a> </p>
