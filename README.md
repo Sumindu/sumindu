@@ -4,7 +4,7 @@
 <p align="center">
     <a href="https://sumindu.me">
         <img align="center"
-        src="https://readme-typing-svg.herokuapp.com/?size=30&width=600&lines=Hi!!!+I+am+Sumindu+Ekanayake....;Software+Developer;MERN+Stack+Enthusiast;Data+Science+Student+at+London+Metropolitan+University"
+        src="https://readme-typing-svg.herokuapp.com/?size=30&width=600&lines=Hi!!!+I+am+Sumindu+Ekanayaka....;Software+Developer;MERN+Stack+Enthusiast;Data+Science+Student+at+London+Metropolitan+University"
             alt="Typing SVG"
         />
     </a>
