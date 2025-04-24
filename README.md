@@ -209,7 +209,7 @@
   <!-- Main Stats Row - Side by Side Cards -->
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=sumindu&show_icons=true&theme=react&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=44CC11" width="48%" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumindu&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=44CC11&fire=44CC11&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" width="48%" alt="GitHub Streak Stats" />
+    <img src="https://streak-stats.demolab.com/?user=sumindu&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=44CC11&fire=44CC11&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" width="48%" alt="GitHub Streak Stats" />
   </p>
 
   <!-- Languages and Activity Row -->
