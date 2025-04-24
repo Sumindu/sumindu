@@ -123,7 +123,7 @@
   </div>
   
   <div align="center" style="margin-top: 20px;">
-    <a href="https://github.com/Sumindu" target="_blank">
+    <a href="https://github.com/Sumindu?tab=repositories" target="_blank">
       <img src="https://img.shields.io/badge/Check%20My%20Projects-4e4187?style=for-the-badge&logo=github&logoColor=white" alt="View Projects" />
     </a>
   </div>
@@ -206,21 +206,34 @@
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=sumindu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumindu&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumindu&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <!-- Main Stats Row - Side by Side Cards -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=sumindu&show_icons=true&theme=react&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=44CC11" width="48%" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumindu&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=44CC11&fire=44CC11&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" width="48%" alt="GitHub Streak Stats" />
+  </p>
+
+  <!-- Languages and Activity Row -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumindu&theme=react&hide_border=true&layout=compact&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="40%" alt="Top Languages" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumindu&bg_color=0D1117&color=58A6FF&line=44CC11&point=FFFFFF&area=true&hide_border=true" width="55%" alt="GitHub Activity Graph" />
+  </p>
+
+  <!-- Contribution Details - Full Width -->
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumindu&theme=github_dark" width="90%" alt="Contribution Details" />
+  </p>
+
+  <!-- GitHub Trophies - Full Width -->
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=sumindu&theme=algolia&no-frame=true&margin-w=15&column=9" width="90%" alt="GitHub Trophies" />
+  </p>
+
+  <!-- Stats Quick Badges - Using Grid -->
+  <div style="display: flex; justify-content: center; gap: 20px; margin-top: 15px;">
+    <img src="https://img.shields.io/github/followers/sumindu?style=for-the-badge&color=58A6FF&labelColor=0D1117&logo=github" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/stars/sumindu?style=for-the-badge&color=44CC11&labelColor=0D1117&logo=github" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/last-commit/sumindu/sumindu?style=for-the-badge&color=58A6FF&labelColor=0D1117&logo=github" alt="Last Commit" />
+  </div>
 </div>
 
 <!-- FOOTER -->
