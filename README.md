@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer from Sri Lanka** working on **backend development, process automation and production systems** in the financial services sector. I hold a **BSc (Hons) in Data Science** (Upper Second Class, London Metropolitan University, 2025) and an **HND in Software Engineering** (Merit).
+I'm a **Software Engineer from Sri Lanka** working on **backend development, process automation and production systems** in the financial services sector. I hold a **BSc (Hons) in Data Science** (Upper Second Class, London Metropolitan University, 2025).
 
 - ⚙️ I build **automation that runs unattended**: scheduled jobs, API integrations and messaging pipelines with full audit trails
 - 🛠️ Main stack: **Node.js / Express, Python and MS SQL Server**, with **React + TypeScript** on the frontend
@@ -30,11 +30,11 @@ I'm a **Software Engineer from Sri Lanka** working on **backend development, pro
 
 ---
 
-## 🏷️ Software for Sale
+## 🏷️ My Product: [Cashrovo](https://cashrovo.com)
 
-### 📦 Distribution Sales & Collection Management System
+### 📦 Cashrovo: collections & credit control for distributors
 
-Web system for **distributors and wholesalers** who sell on credit to retail shops and collect payments in the field. It's already running in production for real businesses and is **available for licensing**, with setup and customisation for your business.
+The core system for Sri Lankan **distributors and wholesalers** who sell on credit to shops and collect payments in the field. It's already running in production for real businesses, with setup and customisation for your business.
 
 <table>
   <tr>
@@ -79,7 +79,8 @@ Web system for **distributors and wholesalers** who sell on credit to retail sho
 </p>
 
 <p>
-  <a href="mailto:bsumindu@gmail.com?subject=Demo%20request%20-%20Distribution%20Sales%20%26%20Collection%20System"><img src="https://img.shields.io/badge/Request%20a%20Demo-2ea44f?style=for-the-badge&logo=gmail&logoColor=white" alt="Request a demo" /></a>
+  <a href="mailto:sales@cashrovo.com?subject=Cashrovo%20demo%20request"><img src="https://img.shields.io/badge/Request%20a%20Demo-2ea44f?style=for-the-badge&logo=gmail&logoColor=white" alt="Request a Cashrovo demo" /></a>
+  <a href="https://cashrovo.com"><img src="https://img.shields.io/badge/cashrovo.com-2F5BD3?style=for-the-badge&logoColor=white" alt="Visit cashrovo.com" /></a>
 </p>
 
 ---
